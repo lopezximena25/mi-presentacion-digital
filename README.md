@@ -7,6 +7,7 @@ Mi nombre es: Ximena Saraí Lopez Hernandez
 me gusta ver series 
 me gustan mucho los animales 
 me gusta leer (a veces)
+me gusta mi novio
 
 ## Meta
 
